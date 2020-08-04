@@ -1,4 +1,4 @@
 # apptv
 hitv
-base:[aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhbnhpYW5nY2hhbm5lbC9hcHB0di9tYXN0ZXIvY29uZmlnLmpzb24=];
+base:[aHR0cDovL21nby5rYW5naHVheXVuLmNvbS9jb25maWcuanNvbg==];
 
